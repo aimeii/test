@@ -1,0 +1,42 @@
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nav-link {
+  padding: 1rem !important;
+}
+
+.navbar {
+  font-family: 'Karla', sans-serif;
+  background-color: white !important;
+}
+
+.intro {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 25px;
+}
+
+.navbar-brand d-none d-lg-inline-block {
+  font-family: 'Karla', sans-serif;
+}
+
+.order-2 {
+  font-family: 'Karla', sans-serif;
+}
+
+.row {
+  font-family: 'Karla', sans-seif;
+  padding-bottom: 2rem;
+}
+
+.card {
+  border-style: none;
+}
+
+.title {
+  font-family: 'Karla', sans-serif;
+  font-size: 18px;
+  padding-bottom: 1rem;
+}
